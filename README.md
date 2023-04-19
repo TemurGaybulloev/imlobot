@@ -1,0 +1,2 @@
+# imlobot
+imloviy xatolarni tekshirish
